@@ -3,3 +3,6 @@ This is a first draft of notes
 Hello ! Good morning folks 
 
 version 1 
+
+
+added line 1 
