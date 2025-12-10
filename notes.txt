@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 added line 3 
+=======
+This is a first draft of notes 
+
+Hello ! Good morning folks 
+
+version 1 
+
+
+added line 1 
+>>>>>>> parent of 119173c (c2)
